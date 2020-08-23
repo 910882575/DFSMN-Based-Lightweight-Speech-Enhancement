@@ -5,8 +5,8 @@ under construction
 - [x] use rezero to control skip-connection 
 - [x] real spec predict cirm
 - [x] clp predict cirm 
-- [] deep filter 
-- [] online/dynamic augmentation 
-- [] ncnn inference for android/linux  
-- [] windows desktop app
+- [ ] deep filter 
+- [ ] online/dynamic augmentation 
+- [ ] ncnn inference for android/linux
+- [ ] windows desktop app
 
